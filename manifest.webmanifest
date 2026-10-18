@@ -1,0 +1,24 @@
+{
+  "name": "Mohammad Ayaad — Full-Stack Software Engineer",
+  "short_name": "Mohammad Ayaad",
+  "description": "Full-stack software engineer based in Cairo. Web, mobile, desktop, systems, and the open-source libraries underneath.",
+  "start_url": "/",
+  "scope": "/",
+  "display": "standalone",
+  "background_color": "#fbfbfd",
+  "theme_color": "#fbfbfd",
+  "icons": [
+    {
+      "src": "/icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png",
+      "purpose": "any"
+    },
+    {
+      "src": "/icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "any"
+    }
+  ]
+}

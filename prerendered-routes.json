@@ -1,0 +1,14 @@
+{
+  "routes": {
+    "/": {},
+    "/about": {},
+    "/contact": {},
+    "/not-found": {},
+    "/services": {},
+    "/work": {},
+    "/work/cleaner-sharp-api": {},
+    "/work/entity-migration-framework": {},
+    "/work/singular-framework-core": {},
+    "/writing": {}
+  }
+}

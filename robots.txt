@@ -2,4 +2,4 @@ User-agent: *
 Allow: /
 Disallow: /not-found
 
-Sitemap: https://mohammadaayaad.github.io/sitemap.xml
+Sitemap: https://mohammadayaad.github.io/sitemap.xml
